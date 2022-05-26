@@ -1,3 +1,4 @@
+#date
 #!/bin/bash
 
 # Create a resource group.
