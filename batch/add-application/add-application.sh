@@ -31,5 +31,5 @@ az batch account login --name $batchAccount --resource-group $resourceGroup --sh
 az batch application create --resource-group $resourceGroup --name $batchAccount --application-name "MyApplication"
 # </FullScript>
 
-# echo "Deleting all resources"
+echo "Deleting all resources"
 # az group delete --name $resourceGroup -y
