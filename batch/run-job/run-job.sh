@@ -1,4 +1,3 @@
-# testing
 #!/bin/bash
 # Passed validation in Cloud Shell on 5/24/2022
 
